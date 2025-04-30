@@ -1,0 +1,206 @@
+PyTorch 버전: 2.6.0+cu124
+CUDA 사용 가능: True
+CUDA 버전: 12.4
+GPU 모델: Tesla T4
+GPU 메모리: 15.83 GB
+사용 장치: cuda
+데이터셋 로드 중...
+데이터셋 분할 중...
+학습 데이터 크기: 1201, 검증 데이터 크기: 301
+
+초기 GPU 메모리 상태:
+할당된 GPU 메모리: 0.24 GB
+캐시된 GPU 메모리: 7.27 GB
+최대 할당된 GPU 메모리: 15.62 GB
+
+모델 생성 중...
+모델 생성 완료 - 파라미터 수: 1.49M
+메모리 상태 확인:
+할당된 GPU 메모리: 0.24 GB
+캐시된 GPU 메모리: 7.27 GB
+최대 할당된 GPU 메모리: 15.62 GB
+
+학습 시작...
+Epoch 1/30: 100%|██████████| 601/601 [00:37<00:00, 16.19it/s, loss=0.655]
+Epoch 1/30, Time: 42.16s, Train Loss: 0.9294, Val Loss: 0.8823, LR: 0.001000
+Model saved with Val Loss: 0.8823
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 2/30: 100%|██████████| 601/601 [00:35<00:00, 17.04it/s, loss=1]
+Epoch 2/30, Time: 39.97s, Train Loss: 0.7986, Val Loss: 0.7612, LR: 0.001000
+Model saved with Val Loss: 0.7612
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 3/30: 100%|██████████| 601/601 [00:35<00:00, 16.77it/s, loss=0.304]
+Epoch 3/30, Time: 39.85s, Train Loss: 0.6923, Val Loss: 0.7026, LR: 0.001000
+Model saved with Val Loss: 0.7026
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 4/30: 100%|██████████| 601/601 [00:35<00:00, 16.81it/s, loss=0.999]
+Epoch 4/30, Time: 39.76s, Train Loss: 0.6393, Val Loss: 0.6457, LR: 0.001000
+Model saved with Val Loss: 0.6457
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 5/30: 100%|██████████| 601/601 [00:35<00:00, 16.81it/s, loss=1]
+Epoch 5/30, Time: 40.90s, Train Loss: 0.6081, Val Loss: 0.6724, LR: 0.001000
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 6/30: 100%|██████████| 601/601 [00:35<00:00, 16.83it/s, loss=0.851]
+Epoch 6/30, Time: 39.92s, Train Loss: 0.5630, Val Loss: 0.6276, LR: 0.001000
+Model saved with Val Loss: 0.6276
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.65 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 7/30: 100%|██████████| 601/601 [00:35<00:00, 16.71it/s, loss=1]
+Epoch 7/30, Time: 40.01s, Train Loss: 0.5501, Val Loss: 0.6076, LR: 0.001000
+Model saved with Val Loss: 0.6076
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 8/30: 100%|██████████| 601/601 [00:35<00:00, 16.75it/s, loss=0.616]
+Epoch 8/30, Time: 39.92s, Train Loss: 0.5210, Val Loss: 0.6473, LR: 0.001000
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 9/30: 100%|██████████| 601/601 [00:35<00:00, 16.79it/s, loss=0.883]
+Epoch 9/30, Time: 40.98s, Train Loss: 0.5235, Val Loss: 0.5832, LR: 0.001000
+Model saved with Val Loss: 0.5832
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 10/30: 100%|██████████| 601/601 [00:35<00:00, 16.80it/s, loss=0.631]
+Epoch 10/30, Time: 39.79s, Train Loss: 0.5066, Val Loss: 0.5867, LR: 0.001000
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 11/30: 100%|██████████| 601/601 [00:35<00:00, 16.82it/s, loss=0.574]
+Epoch 11/30, Time: 39.79s, Train Loss: 0.4990, Val Loss: 0.6068, LR: 0.001000
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 12/30: 100%|██████████| 601/601 [00:36<00:00, 16.69it/s, loss=0.996]
+Epoch 12/30, Time: 40.11s, Train Loss: 0.4733, Val Loss: 0.6030, LR: 0.001000
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 13/30: 100%|██████████| 601/601 [00:35<00:00, 16.98it/s, loss=0.956]
+Epoch 13/30, Time: 40.44s, Train Loss: 0.4541, Val Loss: 0.5966, LR: 0.000500
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 14/30: 100%|██████████| 601/601 [00:35<00:00, 17.11it/s, loss=0.977]
+Epoch 14/30, Time: 39.25s, Train Loss: 0.4247, Val Loss: 0.5701, LR: 0.000500
+Model saved with Val Loss: 0.5701
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 15/30: 100%|██████████| 601/601 [00:36<00:00, 16.58it/s, loss=0.946]
+Epoch 15/30, Time: 40.32s, Train Loss: 0.4031, Val Loss: 0.5415, LR: 0.000500
+Model saved with Val Loss: 0.5415
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 16/30: 100%|██████████| 601/601 [00:36<00:00, 16.42it/s, loss=0.999]
+Epoch 16/30, Time: 40.85s, Train Loss: 0.3847, Val Loss: 0.5287, LR: 0.000500
+Model saved with Val Loss: 0.5287
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 17/30: 100%|██████████| 601/601 [00:35<00:00, 16.78it/s, loss=0.0959]
+Epoch 17/30, Time: 40.98s, Train Loss: 0.3555, Val Loss: 0.4194, LR: 0.000500
+Model saved with Val Loss: 0.4194
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 18/30: 100%|██████████| 601/601 [00:36<00:00, 16.47it/s, loss=0.0308]
+Epoch 18/30, Time: 40.57s, Train Loss: 0.4179, Val Loss: 0.5170, LR: 0.000500
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 19/30: 100%|██████████| 601/601 [00:36<00:00, 16.55it/s, loss=0.013]
+Epoch 19/30, Time: 40.36s, Train Loss: 0.3684, Val Loss: 0.4784, LR: 0.000500
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 20/30: 100%|██████████| 601/601 [00:36<00:00, 16.56it/s, loss=0.999]
+Epoch 20/30, Time: 41.50s, Train Loss: 0.3896, Val Loss: 0.4740, LR: 0.000500
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 21/30: 100%|██████████| 601/601 [00:37<00:00, 16.24it/s, loss=0.16]
+Epoch 21/30, Time: 41.18s, Train Loss: 0.3618, Val Loss: 0.4575, LR: 0.000250
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 22/30: 100%|██████████| 601/601 [00:36<00:00, 16.39it/s, loss=0.142]
+Epoch 22/30, Time: 41.18s, Train Loss: 0.3146, Val Loss: 0.3875, LR: 0.000250
+Model saved with Val Loss: 0.3875
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.65 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 23/30: 100%|██████████| 601/601 [00:37<00:00, 16.12it/s, loss=0.00425]
+Epoch 23/30, Time: 42.06s, Train Loss: 0.2793, Val Loss: 0.4013, LR: 0.000250
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 24/30: 100%|██████████| 601/601 [00:36<00:00, 16.37it/s, loss=0.0118]
+Epoch 24/30, Time: 40.82s, Train Loss: 0.2808, Val Loss: 0.4591, LR: 0.000250
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 25/30: 100%|██████████| 601/601 [00:36<00:00, 16.31it/s, loss=0.00635]
+Epoch 25/30, Time: 41.99s, Train Loss: 0.2738, Val Loss: 0.4651, LR: 0.000250
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 26/30: 100%|██████████| 601/601 [00:36<00:00, 16.62it/s, loss=0.664]
+Epoch 26/30, Time: 40.40s, Train Loss: 0.2503, Val Loss: 0.5063, LR: 0.000125
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 27/30: 100%|██████████| 601/601 [00:36<00:00, 16.50it/s, loss=0.15]
+Epoch 27/30, Time: 40.49s, Train Loss: 0.2054, Val Loss: 0.3760, LR: 0.000125
+Model saved with Val Loss: 0.3760
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.65 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 28/30: 100%|██████████| 601/601 [00:36<00:00, 16.47it/s, loss=0.00269]
+Epoch 28/30, Time: 41.11s, Train Loss: 0.1941, Val Loss: 0.3782, LR: 0.000125
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.65 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 29/30: 100%|██████████| 601/601 [00:36<00:00, 16.47it/s, loss=0.119]
+Epoch 29/30, Time: 41.20s, Train Loss: 0.1817, Val Loss: 0.3912, LR: 0.000125
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.64 GB
+최대 할당된 GPU 메모리: 15.62 GB
+Epoch 30/30: 100%|██████████| 601/601 [00:37<00:00, 16.19it/s, loss=0.00376]
+Epoch 30/30, Time: 41.27s, Train Loss: 0.1690, Val Loss: 0.3871, LR: 0.000125
+할당된 GPU 메모리: 0.26 GB
+캐시된 GPU 메모리: 2.65 GB
+최대 할당된 GPU 메모리: 15.62 GB
+
+모델 평가 중...
+평가 중:   0%|          | 0/151 [00:00<?, ?it/s]<ipython-input-6-ada5f56cb83c>:608: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+평가 중: 100%|██████████| 151/151 [00:05<00:00, 26.38it/s]
+ROC-AUC 계산 중 오류가 발생했습니다. 일반적으로 클래스가 하나만 존재할 때 발생합니다.
+
+=== 모델 평가 결과 ===
+F1 Score: 0.5874
+ROC-AUC: 0.0000
+IoU Score: 0.4158
+Dice Score: 0.5874
+Precision: 0.7124
+Recall: 0.4996
+
+=== 혼동 행렬 ===
+True Positives: 244986
+False Positives: 98894
+True Negatives: 19137122
+False Negatives: 245334
