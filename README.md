@@ -1,4 +1,5 @@
 # HRNet-Based High-Performance Brain Tumor MRI Classification
+HRNet-W48-C-SSLD:	99.69%
 
 This repository contains the implementation code for research that improved brain tumor MRI image classification performance using High-Resolution Network (HRNet).
 
@@ -140,6 +141,7 @@ Through this research, we confirmed that the HRNet structure provides superior p
 ## 연구 개요
 
 본 연구는 뇌종양 MRI 영상 분류에 있어 기존 CNN 모델(ResNet, VGG 등)의 다운샘플링으로 인한 고해상도 정보 손실 문제를 해결하기 위해 HRNet을 적용했습니다. HRNet의 다중 해상도 병렬 처리와 특징 융합 기법은 다양한 크기와 형태의 뇌종양 특징을 효과적으로 추출하여 분류 정확도를 향상시켰습니다.
+HRNet-W48-C-SSLD:	99.69%
 
 ## 데이터셋
 
