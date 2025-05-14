@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./model/HRNet-Image-Classification/lib",
+        "./model/HRNet-Image-Classification"
+    ]
+}
